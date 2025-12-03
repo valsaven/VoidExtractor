@@ -1,0 +1,4 @@
+version = 1
+SPDX-PackageName = "VoidExtractor"
+SPDX-PackageSupplier = "Val Saven <val.saven@gmail.com>"
+SPDX-PackageDownloadLocation = "https://github.com/valsaven/VoidExtractor"
